@@ -7,7 +7,6 @@ body{
 #mainNavbar ul li a{
     color: #BEA96A;
     font-size: 36px;
-
 }
 .col-xs-3{
     background-color: #320F0D;
@@ -20,4 +19,7 @@ body{
     background-color: #320F0D;
     color: #BEA96A;
     border-radius: 50px;
+}
+#nav a:hover{
+    background-color: #F0F0F0;
 }
