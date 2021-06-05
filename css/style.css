@@ -12,11 +12,10 @@ body{
 .col-xs-3{
     background-color: #320F0D;
 }
-#profile{
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
+#projects .nav-link{
+    color: black;
 }
+
 /* .nav-pills .nav-link {
     background-color: #F0F0F0;
 } */
