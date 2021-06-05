@@ -1,0 +1,11 @@
+#mainNavbar{
+    top: 330px;
+    position: fixed;
+}
+#mainNavbar ul li a{
+    color: #BEA96A;
+    font-size: 36px;
+}
+.col-xs-3{
+    background-color: #320F0D;
+}
