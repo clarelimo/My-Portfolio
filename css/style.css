@@ -16,6 +16,8 @@ body{
     color: black;
 }
 
-/* .nav-pills .nav-link {
-    background-color: #F0F0F0;
-} */
+#submit{
+    background-color: #320F0D;
+    color: #BEA96A;
+    border-radius: 50px;
+}
